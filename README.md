@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/theDaniilGromov/MyLeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theDaniilGromov/MyLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/theDaniilGromov/MyLeetCode/tree/master/0035-search-insert-position) |
 | [1063-best-sightseeing-pair](https://github.com/theDaniilGromov/MyLeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/theDaniilGromov/MyLeetCode/tree/master/1063-best-sightseeing-pair) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/theDaniilGromov/MyLeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
